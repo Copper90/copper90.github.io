@@ -1,0 +1,16 @@
+title: "Copper's Digital Space"
+email: ""
+description: "Copper's corner of the internet — projects, experiments, and dev stuff."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://copper90.github.io"
+theme: jekyll-theme-slate
+markdown: kramdown
+
+# Optional: site author info
+author:
+  name: Copper
+  email: ""
+
+# Exclude README from the site if you prefer
+exclude:
+  - README.md
